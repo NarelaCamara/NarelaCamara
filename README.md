@@ -3,4 +3,3 @@
 
 [![Linkedin: NarelaCamara](https://img.shields.io/badge/-NarelaCamara-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/narelacamara/)](https://www.linkedin.com/in/narelacamara/)
 [![GitHub NarelaCamara](https://img.shields.io/github/followers/NarelaCamara?label=follow&style=social)](https://github.com/NarelaCamara)
-[![Gmail NarelaCamara](https://img.shields.io/badge/Gmail-Narela.camara.gmail.com-success)](mailto:Narela.Camara@gmail.com)
