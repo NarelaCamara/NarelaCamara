@@ -1,5 +1,5 @@
 
-# Hola! Mi nombre es Narela.
+# Hola! Mi nombre es Narela
 
 Soy **Developer Frontend**, especializada en **React y Next**.
 
