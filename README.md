@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 My current focus is on mastering large-scale application orchestration and expanding into mobile development <br>🎯 Goals: My professional objectives are centered on technical excellence and architectural leadership.<br>🎲 Fun fact: When I'm not refactoring a component or exploring a new library, you’ll find me with my stylus in Krita, working on digital illustrations. This hobby keeps my visual eye sharp and my creativity flowing.</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 My current focus is on mastering large-scale application orchestration and expanding into mobile development <br>🎯 My professional objectives are centered on technical excellence and architectural leadership.<br>🎲 When I'm not refactoring a component or exploring a new library, you’ll find me with my stylus in Krita, working on digital illustrations. This hobby keeps my visual eye sharp and my creativity flowing.</p>
 
 ###
 
