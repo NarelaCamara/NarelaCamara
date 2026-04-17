@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi! I'm Narela, Frontend Developer with experience building and scaling web products using React, TypeScript, and Next.js. I focus on architecture and code quality, supported by refactoring, automated testing, and hexagonal architecture principles. I translate complex requirements into accessible, mobile-first, responsive interfaces alongside UX, Backend, and QA. Full Stack background (Java/Node) with hands-on support in API design and delivery lifecycle management.</p>
+<p align="left">Hi! I'm Narela, Frontend Developer with experience building and scaling web products using React, TypeScript, and Next.js. I focus on architecture and code quality, supported by refactoring, automated testing, and architecture principles. I translate complex requirements into accessible, mobile-first, responsive interfaces alongside UX, Backend, and QA. Full Stack background (Java/Node) with hands-on support in API design and delivery lifecycle management.</p>
 
 ###
 
